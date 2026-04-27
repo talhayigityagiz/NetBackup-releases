@@ -1,6 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "",
-  "pub_date": "2025-01-01T00:00:00Z",
-  "platforms": {}
+  "version": "1.0.0",
+  "notes": "NetBackup v1.0.0 güncellendi.",
+  "pub_date": "2026-04-27T17:39:18Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/talhayigityagiz/NetBackup-releases/releases/download/v1.0.0/NetBackup_1.0.0_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFF1cnFNOEZmVm9qYUJCZWxVWjBBOEtuZEM2elVrUTBncjdOZXBSeXBVSmlzbmNIZEdxOUVwNkNRTnpseWdDVmx6cW03amRqdWhEZ05qTmNVYnkzUWloZDJoL1NqUlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzExNTU3CWZpbGU6TmV0QmFja3VwXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApQcVF3YU5JOCtSVm1hV2dPcFQ3YUxJeG8vdmV0QWV4eldzMFhNZjRtbTF3UVNOU1RIaHBkY1FRQWFRcmE0REdZeDkxT05xNUkvNnNmYUNIc1lHSWZDUT09Cg=="
+    }
+  }
 }
