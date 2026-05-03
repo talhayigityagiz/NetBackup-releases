@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "NetBackup v1.0.8 güncellendi.",
-  "pub_date": "2026-04-30T08:50:56Z",
+  "version": "1.0.9",
+  "notes": "NetBackup v1.0.9 güncellendi.",
+  "pub_date": "2026-05-03T09:25:19Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/talhayigityagiz/NetBackup-releases/releases/download/v1.0.8/NetBackup_v1.0.8.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFF1cnFNOEZmVmdCd0hEdzBPZlhOellRUm4zd1ZCeTcvN0ZPazlYK3pIbkFMZUsvM2t1OHdydmVHVU9zbGdtWTluOXRycVEzTGZJK2FZcHk0dUtsS016Qklab1pNaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTM5MDU2CWZpbGU6TmV0QmFja3VwX3YxLjAuOC56aXAKUTNPdFNOSGxhUE5kOXdTMEVhWWlrZW1XL0E3bzBObXduYktITWVvbndGeFJ4WkdwOXRhVEd1Nmt2VlZad0JxTDJuYm51N1g1azErck4wMk1RNjEwQUE9PQo="
+      "url": "https://github.com/talhayigityagiz/NetBackup-releases/releases/download/v1.0.9/NetBackup_v1.0.9.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNFF1cnFNOEZmVm1TQVNYY2Ftcm90MUFKZ1gxbE51Mmp1bkVJc00yUmI0djlTaUxoQjlncnBkS3lDRFM0RUZqV01KYmFMUTlSS3ZIeGdreWNiQ2xkNjBBQnpHbnJqUXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODAwMzE5CWZpbGU6TmV0QmFja3VwX3YxLjAuOS56aXAKcGQzSUk3V1hQSUh6QnZQQ2RBL3JHeFhINklHQ2hSc2RvSGJoVjVOYVRiM0x5dkdMQjVEcUJKT0xvOTRNWTlwMkF5OVdMZVNZU3J0eUVNamd2U0ZzQnc9PQo="
     }
   }
 }
